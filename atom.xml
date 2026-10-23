@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.hlcyn.org/</id>
+    <title>Halcyon Blog Blog</title>
+    <updated>2026-10-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.hlcyn.org/"/>
+    <subtitle>Halcyon Blog Blog</subtitle>
+    <icon>https://blog.hlcyn.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[A New Home & A Fresh Bloom – Halcyon 17 Calla Lily]]></title>
+        <id>https://blog.hlcyn.org/welcome-and-halcyon-17-calla-lily</id>
+        <link href="https://blog.hlcyn.org/welcome-and-halcyon-17-calla-lily"/>
+        <updated>2026-10-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Halcyon 17 Calla Lily]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Halcyon 17 Calla Lily" src="https://blog.hlcyn.org/assets/images/banner-09020ba3258988ab24b8d2c7980e4785.jpg" width="1920" height="1080" class="img_ev3q"></p>
+<p>Welcome to the official Halcyon blog! We are thrilled to launch this space as a central hub where we will share news, update logs, and insights into the development of Halcyon.</p>
+<p>Along with opening this blog, we are excited to officially announce <strong>Halcyon 17</strong>, codenamed <strong>Calla Lily</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="special-thanks">Special Thanks<a href="https://blog.hlcyn.org/welcome-and-halcyon-17-calla-lily#special-thanks" class="hash-link" aria-label="Direct link to Special Thanks" title="Direct link to Special Thanks" translate="no">​</a></h2>
+<p>Reaching this milestone would not have been possible without the dedication and hard work of several key contributors.</p>
+<p>We would like to extend our sincere thanks to:</p>
+<ul>
+<li class=""><strong>Raya (rktdnt)</strong> for taking the initiative to lead the source code bringup.</li>
+<li class=""><strong>Binzet</strong> and <strong>Naoko Shoto</strong> for creating stunning wallpapers and design assets.</li>
+<li class=""><strong>Eren</strong> for generously covering our hosting infrastructure.</li>
+<li class=""><strong>neroices</strong> for building and designing our new website.</li>
+<li class="">Everyone who signed up for our <strong>Closed Beta Test</strong>. Your enthusiasm and early feedback mean a lot to us.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-is-coming-next">What is Coming Next?<a href="https://blog.hlcyn.org/welcome-and-halcyon-17-calla-lily#what-is-coming-next" class="hash-link" aria-label="Direct link to What is Coming Next?" title="Direct link to What is Coming Next?" translate="no">​</a></h2>
+<p>We are currently preparing for the upcoming <strong>Public Beta</strong> release.</p>
+<p>Here is a quick look at what you can expect:</p>
+<ul>
+<li class=""><strong>Feature Parity:</strong> Most of your favorite features from Halcyon 16.2 have already been ported over, and any remaining ones will be added soon.</li>
+<li class=""><strong>Refreshed UI:</strong> We have given the user interface a subtle refresh for a cleaner and smoother experience.</li>
+<li class=""><strong>More to Come:</strong> Additional customization and system enhancements are actively in development.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="source-code--building">Source Code &amp; Building<a href="https://blog.hlcyn.org/welcome-and-halcyon-17-calla-lily#source-code--building" class="hash-link" aria-label="Direct link to Source Code &amp; Building" title="Direct link to Source Code &amp; Building" translate="no">​</a></h2>
+<p>For developers, maintainers, and enthusiasts looking to dive in, the source code for <strong>Halcyon 17</strong> is now available and buildable!</p>
+<p>If you would like to compile Halcyon for your device or start bringing up a new tree, please refer to our <a href="https://wiki.hlcyn.org/" target="_blank" rel="noopener noreferrer" class="">Wiki</a> for complete guides on syncing the manifest, setting up your build environment, and compiling the source.</p>
+<p>Stay tuned to this blog for future announcement posts, changelogs, and release schedules. Thank you for being part of the Halcyon community!</p>]]></content>
+        <author>
+            <name>Alif Fathur (herobuxx)</name>
+            <uri>https://github.com/herobuxx</uri>
+        </author>
+        <category label="Announcement" term="Announcement"/>
+        <category label="Calla Lily" term="Calla Lily"/>
+    </entry>
+</feed>
