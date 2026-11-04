@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkblog||=[]).push([[885],{2937(a){a.exports=JSON.parse('{"tags":[{"label":"Announcement","permalink":"/tags/announcement","description":"General announcements from the Halcyon Project.","count":1},{"label":"Calla Lily","permalink":"/tags/calla","description":"Updates and releases for Halcyon 17 Calla Lily.","count":1}]}')}}]);

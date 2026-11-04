@@ -4,10 +4,34 @@
         <title>Halcyon Blog Blog</title>
         <link>https://blog.hlcyn.org/</link>
         <description>Halcyon Blog Blog</description>
-        <lastBuildDate>Sat, 24 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Enchanted by ServerHive]]></title>
+            <link>https://blog.hlcyn.org/enchanted-by-serverhive</link>
+            <guid>https://blog.hlcyn.org/enchanted-by-serverhive</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enchanted by ServerHive]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Enchanted by ServerHive" src="https://blog.hlcyn.org/assets/images/banner-d007c0704433163059d9a6c946b79937.jpg" width="1500" height="837" class="img_ev3q"></p>
+<p>We are glad to share that <strong>Halcyon</strong> has been selected as a grant recipient for the <strong>ServerHive Open Source Support Program (Season 2)</strong>.</p>
+<p>Through this program, ServerHive is providing us with compute infrastructure to help power our ongoing development.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="supporting-the-open-source-ecosystem">Supporting the Open-Source Ecosystem<a href="https://blog.hlcyn.org/enchanted-by-serverhive#supporting-the-open-source-ecosystem" class="hash-link" aria-label="Direct link to Supporting the Open-Source Ecosystem" title="Direct link to Supporting the Open-Source Ecosystem" translate="no">​</a></h3>
+<p>Running an open-source Android project requires significant resources, and initiatives like the ServerHive OSS Support Program play a vital role in helping independent teams bring their ideas to life. By providing compute capacity to projects across the custom ROM and Android community, ServerHive is actively helping developers build, maintain, and innovate.</p>
+<p>We’re really excited to have ServerHive backing us for this season. Huge thanks to their team for creating this program and stepping up to support open-source Android development.</p>
+<p>If you are looking for fast, reliable, and affordable build servers tailored for developers, check out their official links below:</p>
+<ul>
+<li class=""><strong>Instant Purchases:</strong> <a href="https://t.me/ServerHive_Bot" target="_blank" rel="noopener noreferrer" class="">@ServerHive_Bot</a></li>
+<li class=""><strong>Support:</strong> <a href="https://t.me/ServerHiveSupport_bot" target="_blank" rel="noopener noreferrer" class="">@ServerHiveSupport_bot</a></li>
+<li class=""><strong>Updates &amp; Announcement Channel:</strong> <a href="https://t.me/ServerHive" target="_blank" rel="noopener noreferrer" class="">@ServerHive</a></li>
+<li class=""><strong>OSS Program:</strong> <a href="https://github.com/ServerHive-Development/oss-program" target="_blank" rel="noopener noreferrer" class="">ServerHive GitHub Repository</a></li>
+</ul>]]></content:encoded>
+            <category>Announcement</category>
+            <category>Infrastructure</category>
+            <category>ServerHive</category>
+            <category>Open Source</category>
+        </item>
         <item>
             <title><![CDATA[A New Home & A Fresh Bloom – Halcyon 17 Calla Lily]]></title>
             <link>https://blog.hlcyn.org/welcome-and-halcyon-17-calla-lily</link>
