@@ -2,11 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.hlcyn.org/</id>
     <title>Halcyon Blog Blog</title>
-    <updated>2026-11-04T00:00:00.000Z</updated>
+    <updated>2026-11-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.hlcyn.org/"/>
     <subtitle>Halcyon Blog Blog</subtitle>
     <icon>https://blog.hlcyn.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Petals, Privacy & Polish – November 2026 Update]]></title>
+        <id>https://blog.hlcyn.org/november-2026-update</id>
+        <link href="https://blog.hlcyn.org/november-2026-update"/>
+        <updated>2026-11-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Petals, Privacy & Polish – November 2026 Update]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Petals, Privacy &amp;amp; Polish – November 2026 Update" src="https://blog.hlcyn.org/assets/images/banner-69bdeb5e87d05fdb25720ac17aa851fd.jpg" width="1920" height="1080" class="img_ev3q"></p>
+<p>It has been an eventful couple of weeks since we announced Halcyon 17 Calla Lily. Following the initial bringup and our compute grant from ServerHive, our focus shifted toward refining the day-to-day experience.</p>
+<p>Today, we're rolling out the <strong>November 2026 Update</strong> for <strong>Halcyon 17.0</strong> (Android 17 QPR0), bringing requested customization features, privacy safeguards, smoother navigation, and key bug fixes.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="whats-new-in-halcyon-170-android-17-qpr0">What's New in Halcyon 17.0 (Android 17 QPR0)<a href="https://blog.hlcyn.org/november-2026-update#whats-new-in-halcyon-170-android-17-qpr0" class="hash-link" aria-label="Direct link to What's New in Halcyon 17.0 (Android 17 QPR0)" title="Direct link to What's New in Halcyon 17.0 (Android 17 QPR0)" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="customization--launcher">Customization &amp; Launcher<a href="https://blog.hlcyn.org/november-2026-update#customization--launcher" class="hash-link" aria-label="Direct link to Customization &amp; Launcher" title="Direct link to Customization &amp; Launcher" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>Icon Customization (Beta):</strong> Personalization is front and center. You can now apply third-party icon packs directly from your favorite icon makers to match your style.</li>
+<li class=""><strong>Consistent App Shapes:</strong> We fixed an annoying visual quirk where icon masks differed across menus. Icon shapes are now strictly unified across the home screen, app drawer, recents screen, and app options.</li>
+<li class=""><strong>Redesigned App Icon Menus:</strong> Long-pressing an app icon now smoothly opens an ergonomic bottom sheet instead of an awkward floating menu, keeping shortcuts easily within thumb's reach.</li>
+<li class=""><strong>Smarter Theme Controls:</strong> To cut down on duplicate settings, the "Show app name" switch in Theme Picker now centrally controls both the home screen and app drawer labels.</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="privacy--security">Privacy &amp; Security<a href="https://blog.hlcyn.org/november-2026-update#privacy--security" class="hash-link" aria-label="Direct link to Privacy &amp; Security" title="Direct link to Privacy &amp; Security" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>AppLock Privacy Boost:</strong> Protect sensitive apps with our new built-in AppLock using your biometric or device lock. For extra privacy, preview windows in the Overview/Recents screen are now automatically blurred for locked apps.</li>
+<li class=""><strong>November 2026 Security Patch:</strong> Keeps your device safe with the latest security fixes merged from the upstream Android Open Source Project.</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="navigation--fluidity">Navigation &amp; Fluidity<a href="https://blog.hlcyn.org/november-2026-update#navigation--fluidity" class="hash-link" aria-label="Direct link to Navigation &amp; Fluidity" title="Direct link to Navigation &amp; Fluidity" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>Optimized Gesture Navigation:</strong> The navigation hint bar now stays firmly pinned to the bottom during swipe-to-home gestures instead of jumping upwards into apps.</li>
+<li class=""><strong>Smoother Animations:</strong> Refined app open and close physics for a more natural, fluid motion.</li>
+<li class=""><strong>Refreshed Overview Screen:</strong> Enjoy a redesigned, modern background in your recents screen that blends seamlessly with your wallpaper.</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="built-in-apps--audio">Built-In Apps &amp; Audio<a href="https://blog.hlcyn.org/november-2026-update#built-in-apps--audio" class="hash-link" aria-label="Direct link to Built-In Apps &amp; Audio" title="Direct link to Built-In Apps &amp; Audio" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>New Kilas Browser:</strong> Added Kilas, a lightweight and privacy-friendly web browser based on LineageOS Jelly, designed for quick link opening and zero-bloat browsing.</li>
+<li class=""><strong>Standalone FM Radio:</strong> A clean, no-nonsense FM Radio app for supported devices to tune into local broadcasts offline.</li>
+<li class=""><strong>Redesigned Halcyon Dolby:</strong> Updated the Dolby Atmos interface with a modern, cleaner look that makes tweaking audio profiles effortless.</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="bug-fixes--stability">Bug Fixes &amp; Stability<a href="https://blog.hlcyn.org/november-2026-update#bug-fixes--stability" class="hash-link" aria-label="Direct link to Bug Fixes &amp; Stability" title="Direct link to Bug Fixes &amp; Stability" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>User Manager Fix:</strong> Resolved an issue where picking an avatar profile photo in User Manager caused an unexpected system crash.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="changelog-summary">Changelog Summary<a href="https://blog.hlcyn.org/november-2026-update#changelog-summary" class="hash-link" aria-label="Direct link to Changelog Summary" title="Direct link to Changelog Summary" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Launcher:</strong> Third-party icon pack support (Beta), consistent app shapes, bottom sheet app menus, unified theme controls.</li>
+<li class=""><strong>Navigation &amp; UI:</strong> Pinned gesture navigation hint bar, smoother animations, refreshed recents backdrop.</li>
+<li class=""><strong>Privacy &amp; Security:</strong> Built-in AppLock with recents preview blurring, November 2026 security patch.</li>
+<li class=""><strong>Apps &amp; Audio:</strong> Kilas browser (based on LineageOS Jelly), standalone FM Radio, redesigned Halcyon Dolby.</li>
+<li class=""><strong>Fixes:</strong> Fixed avatar picker crash in User Manager.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="halcyon-162-android-16-qpr2">Halcyon 16.2 (Android 16 QPR2)<a href="https://blog.hlcyn.org/november-2026-update#halcyon-162-android-16-qpr2" class="hash-link" aria-label="Direct link to Halcyon 16.2 (Android 16 QPR2)" title="Direct link to Halcyon 16.2 (Android 16 QPR2)" translate="no">​</a></h2>
+<p>For devices on our <strong>Halcyon 16.2</strong> branch (codenamed <strong>Bloom</strong>, based on Android 16 QPR2):</p>
+<blockquote>
+<p><strong>Status:</strong> <em>To be updated</em></p>
+</blockquote>
+<p>Maintainers are actively finalizing test builds and upstream patches for 16.2. Detailed release notes and build availability will be updated shortly.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="getting-the-update">Getting the Update<a href="https://blog.hlcyn.org/november-2026-update#getting-the-update" class="hash-link" aria-label="Direct link to Getting the Update" title="Direct link to Getting the Update" translate="no">​</a></h2>
+<p>Official builds are rolling out gradually across supported devices. Keep an eye on your device's built-in updater, or check your device's portal on our <a href="https://wiki.hlcyn.org/" target="_blank" rel="noopener noreferrer" class="">Wiki</a> and announcement channels.</p>
+<p>Thank you to all our testers and maintainers for your continuous feedback and support. Enjoy the update!</p>]]></content>
+        <author>
+            <name>Alif Fathur (herobuxx)</name>
+            <uri>https://github.com/herobuxx</uri>
+        </author>
+        <category label="Release" term="Release"/>
+        <category label="Calla Lily" term="Calla Lily"/>
+        <category label="Bloom" term="Bloom"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enchanted by ServerHive]]></title>
         <id>https://blog.hlcyn.org/enchanted-by-serverhive</id>
